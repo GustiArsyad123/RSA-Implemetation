@@ -1,0 +1,2 @@
+# RSA-Implemetation
+Program ini mengimplementasikan algoritma RSA untuk kriptografi. Ini secara acak memilih dua bilangan prima dari file txt bilangan prima dan menggunakannya untuk menghasilkan kunci publik dan pribadi. Menggunakan kunci, itu dapat mengenkripsi atau mendekripsi pesan menggunakan algoritma RSA.  Catatan: File yang menyimpan kunci publik dan pribadi diformat sedemikian rupa sehingga baris pertama adalah n dan baris kedua adalah e atau d.  
